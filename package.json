@@ -1,0 +1,23 @@
+{
+  "name": "testvr",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "aframe": "^0.8.2",
+    "aframe-click-drag-component": "^3.0.1",
+    "aframe-controller-cursor-component": "^0.2.7",
+    "aframe-particle-system-component": "^1.0.11",
+    "aframe-react": "^4.4.0",
+    "live-server": "^1.2.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "super-hands": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
